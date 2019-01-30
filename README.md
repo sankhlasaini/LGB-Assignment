@@ -1,4 +1,4 @@
-# LGB-Assignment
+# LBG-Assignment
 
 NODE VERSION : 8.12.0
 
